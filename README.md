@@ -1,3 +1,19 @@
-Hi there! I'm Amélie, a Computer Science student studying at Memorial University of Newfoundland.  
-I'm mainly proficient in Python, though I'm looking to branch out by making (and breaking :P) things on Github.  
-Feel free to reach out with any projects you might be interested in having me take a look at.
+              |    |    |                 
+             )_)  )_)  )_)              
+            )___))___))___)\            
+           )____)____)_____)\\
+         _____|____|____|____\\\__
+---------\                   /---------
+  ^^^^^ ^^^^^^^^^^^^^^^^^^^^^
+    ^^^^      ^^^^     ^^^    ^^
+         ^^^^      ^^^
+
+hey im amelie
+
+current long term project is my first game, MERCHANTMAN
+
+i go to memorial university for compsci
+
+most of the people i follow are my colleagues, show them love
+
+want to assault me verbally or through text? find me on discord @amelie#2597
