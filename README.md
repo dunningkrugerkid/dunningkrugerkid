@@ -1,6 +1,6 @@
 hey im amelie
 
-current long term project is my first game, MERCHANTMAN, which is open source here
+current long term project is my first game, MERCHANTMAN, which you can find [here] 
 
 i go to memorial university for compsci
 
