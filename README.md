@@ -1,7 +1,7 @@
 
 <div align="center">
  
-![](IMG_1384.jpeg| width=100)
+![image](IMG_1384.jpeg| width=100)
  
  ![Top Langs](https://https-github-com-dunningkrugerkid-github-readm-dunningkrugerkid.vercel.app/api/top-langs/?username=dunningkrugerkid&count_private=true&exclude_repo=https-github.com-dunningkrugerkid-github-readme-stats-amesfork)]
  
