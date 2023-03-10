@@ -1,7 +1,7 @@
 
 <div align="center">
 
- <img src="IMG_1384.jpeg" alt= “it me” width="600" height="600"/>
+<img src="IMG_1384.jpeg" alt= “it me” width="50%" height="50%"/>
  
  ![Top Langs](https://https-github-com-dunningkrugerkid-github-readm-dunningkrugerkid.vercel.app/api/top-langs/?username=dunningkrugerkid&count_private=true&exclude_repo=https-github.com-dunningkrugerkid-github-readme-stats-amesfork)]
  
