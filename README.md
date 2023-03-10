@@ -1,6 +1,6 @@
 [![Top Langs](https://https-github-com-dunningkrugerkid-github-readm-dunningkrugerkid.vercel.app/api/top-langs/?username=dunningkrugerkid&count_private=true&exclude_repo=https-github.com-dunningkrugerkid-github-readme-stats-amesfork)](https://github.com/anuraghazra/github-readme-stats)
 
-![alt text](spongebob-spongebob-dancing.gif "he dance")
+![alt text](IMG_1384.jpeg "it me")
 
 hey im amelie
 
